@@ -67,3 +67,10 @@ C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\obj\Debug\Lamasssu.csproj.CoreCom
 C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\obj\Debug\Lamasssu.csproj.CopyComplete
 C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\obj\Debug\Lamasssu.dll
 C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\obj\Debug\Lamasssu.pdb
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\Data_Layer.dll
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\EntityFramework.dll
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\EntityFramework.SqlServer.dll
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\Data_Layer.pdb
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\Data_Layer.dll.config
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\EntityFramework.xml
+C:\Users\kh-bpq\source\repos\Lamasssu\Lamasssu\bin\EntityFramework.SqlServer.xml
