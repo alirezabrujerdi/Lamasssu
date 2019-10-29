@@ -35,6 +35,13 @@ namespace Data_Layer
         [DataType(DataType.DateTime)]
         public DateTime DateOfCreate { get; set; }
 
+        [Display(Name = "قیمت عکس")]
+        [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
+        public int Price { get; set; }
+
+        [Display(Name = "کلمات کلیدی")]
+        public string Tags { get; set; }
+
         [Display(Name ="تأیید ادمین")]
         public bool IsConfiremd { get; set; }
 
